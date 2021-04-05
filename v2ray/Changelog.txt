@@ -1,5 +1,9 @@
 Koolshare OpenWRT/LEDE V2ray plugin Changelog
 ===========================================
+2.4.2
+   - add	   v2二进制切换到v2fly社区，支持自动更新；
+   - update	更新v2ray二进制到最新：V4.37.0；
+
 2.3.6
    - add	增加socks5、http代理无验证配置；
 
